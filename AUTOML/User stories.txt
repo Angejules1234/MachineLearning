@@ -1,0 +1,47 @@
+Cas de test 1 : Chargement de données pour la création de modèles de régression
+User story :
+En tant que data scientist, je souhaite utiliser le programme d'automatisation de machine learning pour charger un jeu de données de vente à partir d'un fichier CSV, afin de créer des modèles de régression pour prédire les ventes futures.
+
+Jeu de données :
+Le jeu de données contient des informations sur les ventes de différents produits, telles que les quantités vendues, les prix de vente, les coûts de production, les promotions et les dates de vente.
+
+Espace de test :
+Le programme d'automatisation de machine learning est utilisé pour charger les données à partir du fichier CSV et préparer les données pour la modélisation de régression.
+
+Résultat attendu :
+Le programme devrait charger les données de manière fiable et préparer les données pour la modélisation de régression en séparant la variable cible des variables explicatives.
+
+Résultat obtenu :
+Les résultats obtenus à partir du programme d'automatisation de machine learning sont conformes aux attentes, avec un chargement fiable des données et une préparation précise des données pour la modélisation de régression.
+
+Cas de test 2 : Comparaison de modèles de régression
+User story :
+En tant que data scientist, je souhaite utiliser le programme d'automatisation de machine learning pour comparer différents mod modèles de régression sur un jeu de données de vente, afin de déterminer le meilleur modèle pour prédire les ventes futures.
+
+Jeu de données :
+Le jeu de données contient des informations sur les ventes de différents produits, telles que les quantités vendues, les prix de vente, les coûts de production, les promotions et les dates de vente.
+
+Espace de test :
+Le programme d'automatisation de machine learning est utilisé pour préparer les données, créer et comparer différents modèles de régression, en utilisant des métriques telles que le RMSE, et enregistrer le meilleur modèle pour une utilisation ultérieure.
+
+Résultat attendu :
+Le programme devrait fournir une analyse précise et fiable des ventes futures, en identifiant les facteurs qui influencent les ventes et en déterminant le meilleur modèle de régression pour prédire les ventes futures.
+
+Résultat obtenu :
+Les résultats obtenus à partir du programme d'automatisation de machine learning sont conformes aux attentes, avec des prévisions précises des ventes futures et une identification des facteurs clés qui influencent les ventes. Le meilleur modèle de régression est enregistré pour une utilisation ultérieure dans d'autres projets de prévision des ventes.
+
+Cas de test 3 : Préparation et comparaison de modèles de classification
+User story :
+En tant que data scientist, je souhaite utiliser le programme d'automatisation de machine learning pour préparer et comparer différents modèles de classification sur un jeu de données de marketing, afin de déterminer le meilleur modèle pour prédire la réponse des clients aux campagnes de marketing.
+
+Jeu de données :
+Le jeu de données contient des informations sur les campagnes de marketing, telles que les canaux de marketing utilisés, les offres proposées, les caractéristiques des clients et les résultats de la campagne.
+
+Espace de test :
+Le programme d'automatisation de machine learning est utilisé pour préparer les données, créer et comparer différents modèles de classification, en utilisant des métriques telles que l'AUC, et enregistrer le meilleur modèle pour une utilisation ultérieure.
+
+Résultat attendu :
+Le programme devrait fournir une analyse précise et fiable de la réponse des clients aux campagnes de marketing, en identifiant les facteurs qui influencent la réponse des clients et en déterminant le meilleur modèle de classification pour prédire la réponse des clients.
+
+Résultat obtenu :
+Les résultats obtenus à partir du programme d'automatisation de machine learning sont conformes aux attentes, avec des prévisions précises de la réponse des clients aux campagnes de marketing et une identification des facteurs clés qui influencent la réponse des clients. Le meilleur modèle de classification est enregistré pour une utilisation ultérieure dans d'autres projets de marketing.
